@@ -1,0 +1,28 @@
+.Agregar{
+    width: 20%;
+    background-color: slateblue;
+    border: slategrey;
+    padding: 1rem;
+    border-radius: 1rem;
+    color: snow;
+}
+
+.Agregar:hover{
+    border: 1px;
+}
+
+.containerButton{
+    margin: 1rem auto;
+    width: 30%;
+    height: 40%;
+}
+
+.Boton1{
+    width: 15%;
+    height: 15%;
+}
+
+label{
+    padding: 2rem;
+    font-size: 2rem;
+}
